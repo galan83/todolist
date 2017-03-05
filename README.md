@@ -1,6 +1,15 @@
-# todolist
+# Todolist App
 
-> A Vue.js project
+Todolist is a simple vue.js application, created for learning purposes.
+Before build it you will need to install Node.js.
+
+![Image of todolist app](https://github.com/galan83/todolist/blob/master/todolist.png)
+
+## Install Node.js
+
+You can install it with a [PackageManager](https://nodejs.org/en/download/package-manager/) or with with an [installer](https://nodejs.org/en/download/).
+
+Node comes with npm (Node Package Manager) which you are going to need for the next steps.
 
 ## Build Setup
 
